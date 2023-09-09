@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BffMicrosoftEntraExternalID.Server.Controllers;
 
-// orig src https://github.com/berhir/BlazorWebAssemblyCookieAuth
 [Route("api/[controller]")]
 public class AccountController : ControllerBase
 {
