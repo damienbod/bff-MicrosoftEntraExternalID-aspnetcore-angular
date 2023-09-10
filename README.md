@@ -50,3 +50,5 @@ https://developer.microsoft.com/en-us/identity/customers
 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-external-id-public-preview-developer-centric/ba-p/3823766
 
 https://github.com/Azure-Samples/ms-identity-ciam-dotnet-tutorial
+
+https://github.com/damienbod/EntraExternalIdCiam
