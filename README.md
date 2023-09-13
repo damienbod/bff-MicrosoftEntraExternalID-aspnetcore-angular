@@ -36,3 +36,5 @@ https://nx.dev/getting-started/intro
 https://github.com/AzureAD/microsoft-identity-web
 
 https://github.com/isolutionsag/aspnet-react-bff-proxy-example
+
+https://learn.microsoft.com/en-us/azure/active-directory/external-identities/
