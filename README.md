@@ -38,3 +38,19 @@ https://github.com/AzureAD/microsoft-identity-web
 https://github.com/isolutionsag/aspnet-react-bff-proxy-example
 
 https://learn.microsoft.com/en-us/azure/active-directory/external-identities/
+
+https://learn.microsoft.com/en-us/azure/active-directory/external-identities/customers
+
+https://learn.microsoft.com/en-us/azure/active-directory/external-identities/
+
+https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id
+
+https://www.cloudpartner.fi/?p=14685
+
+https://developer.microsoft.com/en-us/identity/customers
+
+https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-external-id-public-preview-developer-centric/ba-p/3823766
+
+https://github.com/Azure-Samples/ms-identity-ciam-dotnet-tutorial
+
+https://github.com/damienbod/EntraExternalIdCiam
