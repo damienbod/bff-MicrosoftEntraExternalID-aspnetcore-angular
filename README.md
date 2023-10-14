@@ -2,6 +2,7 @@
 
 [![.NET and npm build](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/actions/workflows/dotnet.yml/badge.svg)](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/actions/workflows/dotnet.yml) [![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/blob/main/LICENSE)
 
+[Secure an Angular application using Microsoft Entra External ID and ASP.NET Core with BFF](https://damienbod.com)
 ## Debugging
 
 Start the Angular project from the **ui** folder
