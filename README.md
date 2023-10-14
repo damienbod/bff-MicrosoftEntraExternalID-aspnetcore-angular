@@ -51,6 +51,8 @@ https://github.com/Azure-Samples/ms-identity-ciam-dotnet-tutorial
 
 https://github.com/damienbod/EntraExternalIdCiam
 
+https://github.com/damienbod/bff-aspnetcore-angular
+
 https://github.com/damienbod/bff-auth0-aspnetcore-angular
 
 https://github.com/damienbod/bff-openiddict-aspnetcore-angular
