@@ -37,13 +37,11 @@ https://nx.dev/getting-started/intro
 
 https://github.com/AzureAD/microsoft-identity-web
 
-https://github.com/isolutionsag/aspnet-react-bff-proxy-example
+https://developer.microsoft.com/en-us/identity/customers
 
 https://learn.microsoft.com/en-us/azure/active-directory/external-identities/
 
 https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id
-
-https://developer.microsoft.com/en-us/identity/customers
 
 https://www.cloudpartner.fi/?p=14685
 
@@ -60,5 +58,7 @@ https://github.com/damienbod/bff-auth0-aspnetcore-angular
 https://github.com/damienbod/bff-openiddict-aspnetcore-angular
 
 https://github.com/damienbod/bff-azureadb2c-aspnetcore-angular
+
+https://github.com/isolutionsag/aspnet-react-bff-proxy-example
 
 https://github.com/damienbod/bff-aspnetcore-vuejs
