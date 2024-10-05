@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace BffMicrosoftEntraExternalID.Server.Models;
+﻿namespace BffMicrosoftEntraExternalID.Server.Models;
 
 public class UserInfo
 {
