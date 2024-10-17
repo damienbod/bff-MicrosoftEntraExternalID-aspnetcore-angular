@@ -39,8 +39,9 @@ nx migrate --run-migrations=migrations.json
 
 ## History
 
+- 2024-10-17 Updated packages, updated security headers performance
 - 2024-10-06 Updated Angular 18.2.7
-- 
+
 ## Links
 
 https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core
