@@ -39,6 +39,7 @@ nx migrate --run-migrations=migrations.json
 
 ## History
 
+- 2024-12-18 Updated .NET 9, Angular 19
 - 2024-10-17 Updated packages, updated security headers performance
 - 2024-10-06 Updated Angular 18.2.7
 
