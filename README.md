@@ -1,7 +1,6 @@
 # BFF security architecture using ASP.NET Core and Angular CLI
 
-[![.NET and npm build](https://github.com/damienbod/bff-aspnetcore-angular/actions/workflows/dotnet.yml/badge.svg)](https://github.com/damienbod/bff-aspnetcore-angular/actions/workflows/dotnet.yml) [![Build and deploy to Azure Web App](https://github.com/damienbod/bff-aspnetcore-angular/actions/workflows/azure-webapps-dotnet-core.yml/badge.svg?branch=deploy)](https://github.com/damienbod/bff-aspnetcore-angular/actions/workflows/azure-webapps-dotnet-core.yml) [![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/damienbod/bff-aspnetcore-angular/blob/main/LICENSE)
-
+[![.NET and npm build](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/actions/workflows/dotnet.yml/badge.svg)](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/actions/workflows/dotnet.yml)
 ## Setup Server
 
 The ASP.NET Core project is setup to run in development and production. In production, it uses the Angular production build deployed to the wwwroot. In development, it uses MS YARP reverse proxy to forward requests.
@@ -9,7 +8,7 @@ The ASP.NET Core project is setup to run in development and production. In produ
 > [!IMPORTANT]  
 > In production, the Angular CLI project is built into the **wwwroot** of the .NET project.
 
-![BFF production](https://github.com/damienbod/bff-aspnetcore-angular/blob/main/images/bff-arch-production_01.drawio.png)
+![BFF production](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/blob/main/images/bff-arch-production_01.drawio.png)
 
 Configure the YARP reverse proxy to match the Angular CLI URL. This is only required in development. I always use HTTPS in development and the port needs to match the Angular CLI developement env.
 
@@ -162,7 +161,7 @@ npm run build
 
 The development environment is setup to use the default tools for each of the tech stacks. Angular CLI is used like recommended. I use Visual Studio code. A YARP reverse proxy is used to integrate the Angular development into the backend application.
 
-![BFF development](https://github.com/damienbod/bff-aspnetcore-angular/blob/main/images/bff-arch-development_01.drawio.png)
+![BFF development](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/blob/main/images/bff-arch-development_01.drawio.png)
 
 > [!NOTE]  
 > Always run in HTTPS, both in development and production
@@ -177,7 +176,7 @@ The application(s) are deployed as one. This is an OpenID Connect confidential c
 
 Use the Web client type on setup.
 
-![BFF Azure registration](https://github.com/damienbod/bff-aspnetcore-angular/blob/main/images/azure-app-registration_01.png)
+![BFF Azure registration](https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular/blob/main/images/azure-app-registration_01.png)
 
 The OpenID Connect client is setup using **Microsoft.Identity.Web**. This implements the Microsoft Entra ID client. I have created downstream APIs using the OBO flow and a Microsoft Graph client. This could be replaced with any OpenID Connect client and requires no changes in the frontend part of the solution.
 
